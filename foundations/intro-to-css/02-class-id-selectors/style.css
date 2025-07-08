@@ -1,0 +1,18 @@
+.Odd_Elements{
+    background-color: rgb(245, 225, 228);
+    font-family : "Verdana","DejaVu Sans", "sans-serif" ;
+}
+
+.Big_Size{
+    font-size: 24px
+}
+
+#Second_Element{
+    color: blue;
+font-size: 36px;
+}
+
+#Fourth_Element{
+    background-color: rgb(146, 246, 146);
+    font-weight : bold;
+}
